@@ -9,6 +9,3 @@ else{
     console.log (" helaas, je hebt geen genoeg geld");
 }
 
-function kleur_aanpassen(){
-    document.getElementById("budget").style.color ="red";
-}
